@@ -1,0 +1,3 @@
+smc_default	InpSwing=3,InpATR=14,InpOBMit=3,InpFVGMin=0.2,InpFVGMit=2,InpSweepLook=60,InpSweepMin=0.1,InpUseSession=false,InpSessStart=7,InpSessEnd=17
+smc_touch_s5_sess	InpSwing=5,InpATR=14,InpOBMit=0,InpFVGMin=0.2,InpFVGMit=1,InpSweepLook=60,InpSweepMin=0.1,InpUseSession=true,InpSessStart=7,InpSessEnd=16
+smc_far_fvg05	InpSwing=2,InpATR=10,InpOBMit=2,InpFVGMin=0.5,InpFVGMit=3,InpSweepLook=30,InpSweepMin=0.3,InpUseSession=false,InpSessStart=7,InpSessEnd=17

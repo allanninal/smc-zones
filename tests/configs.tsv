@@ -1,0 +1,3 @@
+smc_default	InpAlertPopup=false
+smc_touch_s5_sess	InpAlertPopup=false,InpSwing=5,InpOBMit=0,InpFVGMit=1,InpUseSession=true,InpSessStart=7,InpSessEnd=16
+smc_far_fvg05	InpAlertPopup=false,InpSwing=2,InpATR=10,InpFVGMin=0.5,InpOBMit=2,InpFVGMit=3,InpSweepMin=0.3,InpSweepLook=30
